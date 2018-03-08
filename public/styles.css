@@ -1,4 +1,9 @@
 /* @import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"); */
+#top-image {
+  background-image: url("./images/13.jpg");
+  height: 250px; 
+  width: 100%;
+}
 
 body {
   font-family: 'Lato';
