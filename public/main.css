@@ -1,5 +1,5 @@
 body {
-  font-family: 'Lato', sans-serif;
+  /* font-family: 'Lato', sans-serif; */
   line-height: 1.5; }
 
 /*
@@ -196,13 +196,13 @@ body {
         margin-left: 20px;
         margin: 0.5rem 0; }
         .reviews .stats .ratings-distribution .five-container:hover .five, .reviews .stats .ratings-distribution .five-container:hover .four, .reviews .stats .ratings-distribution .five-container:hover .three, .reviews .stats .ratings-distribution .five-container:hover .two, .reviews .stats .ratings-distribution .five-container:hover .one, .reviews .stats .ratings-distribution .four-container:hover .five, .reviews .stats .ratings-distribution .four-container:hover .four, .reviews .stats .ratings-distribution .four-container:hover .three, .reviews .stats .ratings-distribution .four-container:hover .two, .reviews .stats .ratings-distribution .four-container:hover .one, .reviews .stats .ratings-distribution .three-container:hover .five, .reviews .stats .ratings-distribution .three-container:hover .four, .reviews .stats .ratings-distribution .three-container:hover .three, .reviews .stats .ratings-distribution .three-container:hover .two, .reviews .stats .ratings-distribution .three-container:hover .one, .reviews .stats .ratings-distribution .two-container:hover .five, .reviews .stats .ratings-distribution .two-container:hover .four, .reviews .stats .ratings-distribution .two-container:hover .three, .reviews .stats .ratings-distribution .two-container:hover .two, .reviews .stats .ratings-distribution .two-container:hover .one, .reviews .stats .ratings-distribution .one-container:hover .five, .reviews .stats .ratings-distribution .one-container:hover .four, .reviews .stats .ratings-distribution .one-container:hover .three, .reviews .stats .ratings-distribution .one-container:hover .two, .reviews .stats .ratings-distribution .one-container:hover .one {
-          border: 2px solid #3971d8;
+          border: 2px solid #DA3743;
           height: calc(1rem - 2px); }
         .reviews .stats .ratings-distribution .five-container:hover .number, .reviews .stats .ratings-distribution .four-container:hover .number, .reviews .stats .ratings-distribution .three-container:hover .number, .reviews .stats .ratings-distribution .two-container:hover .number, .reviews .stats .ratings-distribution .one-container:hover .number {
           text-decoration: underline; }
       .reviews .stats .ratings-distribution .bar {
         height: 1rem;
-        background-color: #3971d8; }
+        background-color: #DA3743; }
     .reviews .stats .rating {
       font-size: 1em;
       font-weight: bold; }
@@ -264,7 +264,7 @@ body {
       float: left;
       margin-left: 20px;
       margin-left: 0;
-      color: #3971d8;
+      color: #DA3743;
       font-size: 1.125rem;
       cursor: pointer; }
     .review .review-footer .actions {
@@ -290,7 +290,7 @@ body {
     .pages .page-label .page-label-text {
       line-height: 34px; }
     .pages .page-label:hover {
-      border: 2px solid #3971d8;
+      border: 2px solid #DA3743;
       width: 32px;
       height: 32px; }
       .pages .page-label:hover .page-label-text {
@@ -310,7 +310,7 @@ body {
   margin: 0 0.25rem; }
 
 .page-label-container .page-label.current-page {
-  border: 2px solid #3971d8;
+  border: 2px solid #DA3743;
   height: 36px;
   width: 36px;
   position: relative;
@@ -318,7 +318,7 @@ body {
   .page-label-container .page-label.current-page .page-label-text {
     line-height: 36px; }
   .page-label-container .page-label.current-page:hover {
-    border: 2px solid #3971d8;
+    border: 2px solid #DA3743;
     height: 36px;
     width: 36px; }
     .page-label-container .page-label.current-page:hover .page-label-text {
@@ -335,7 +335,7 @@ body {
   width: 34px;
   height: 34px; }
   .goback:hover, .goforward:hover {
-    border: 2px solid #3971d8;
+    border: 2px solid #DA3743;
     width: 32px;
     height: 32px; }
     .goback:hover .left-arrow, .goforward:hover .left-arrow {
@@ -401,7 +401,7 @@ body {
     border-radius: 2px 2px 0 0;
     cursor: pointer; }
     .sorting-filters .selected:hover {
-      border: 2px solid #3971d8;
+      border: 2px solid #DA3743;
       padding: calc(0.5rem - 1px); }
   .sorting-filters .dropdown-option {
     padding: 0.5rem; }
@@ -435,7 +435,7 @@ body {
     padding: 8px;
     cursor: pointer; }
     .sorting-filters .filter:hover {
-      border: 2px solid #3971d8;
+      border: 2px solid #DA3743;
       padding: calc(8px - 1px); }
     .sorting-filters .filter input {
       display: none; }

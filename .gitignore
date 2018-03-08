@@ -1,6 +1,10 @@
 #Node 
 node_modules/
 
+#bundle
+/public/main.bundle.js
+/public/cache.worker.bundle.js
+
 # Logs
 logs
 *.log
