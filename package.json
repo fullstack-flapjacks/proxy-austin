@@ -1,17 +1,20 @@
 {
-  "name": "",
-  "version": "",
+  "name": "OpenTable Clone",
+  "version": "1.0.0",
   "description": "",
-  "author": "",
-  "license": "",
-  "engines": {
-    "node": ">=6.13.0"
-  },
+  "main": "index.js",
   "scripts": {
+    "start": "nodemon ./server.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
+    "express": "^4.16.2",
+    "jquery": "^3.3.1",
+    "morgan": "^1.9.0"
   },
   "devDependencies": {
-    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor"
+    "http-proxy-middleware": "^0.17.4"
   }
 }
